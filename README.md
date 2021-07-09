@@ -1,6 +1,4 @@
-# soccer_player_detection
-
-Soccer Player Detection
+# Soccer Player Detection
 
 Uses custom dataset created on Roboflow
 
